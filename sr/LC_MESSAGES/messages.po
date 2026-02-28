@@ -1,0 +1,2955 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ulice istorije\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-16 22:20+0000\n"
+"PO-Revision-Date: 2026-02-28 12:45+0100\n"
+"Last-Translator: Nikola Dyordyevich <nikola.djordjevic@pansej.org.rs>\n"
+"Language-Team: Serbian\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.8\n"
+
+# Description:
+#. SR: "прва половина 18. века"
+#. EN: "first half of the 18th century"
+msgid "18vek_1"
+msgstr "прва половина 18. века"
+
+# Description:
+#. SR: "друга половина 18. века"
+#. EN: "second half of the 18th century"
+msgid "18vek_2"
+msgstr "друга половина 18. века"
+
+# Description:
+#. SR: "19. век"
+#. EN: "19th century"
+msgid "19vek"
+msgstr "19. век"
+
+# Description:
+#. SR: "прва половина 19. века"
+#. EN: "first half of the 19th century"
+msgid "19vek_1"
+msgstr "прва половина 19. века"
+
+# Description:
+#. SR: "друга половина 19. века"
+#. EN: "second half of the 19th century"
+msgid "19vek_2"
+msgstr "друга половина 19. века"
+
+# Description:
+#. SR: "20. век"
+#. EN: "20th century"
+msgid "20vek"
+msgstr "20. век"
+
+# Description:
+#. SR: "прва половина 20. века"
+#. EN: "first half of the 20th century"
+msgid "20vek_1"
+msgstr "прва половина 20. века"
+
+# Description:
+#. SR: "друга половина 20. века"
+#. EN: "second half of the 20th century"
+msgid "20vek_2"
+msgstr "друга половина 20. века"
+
+# Description:
+#. SR: "21. век"
+#. EN: "21st century"
+msgid "21vek"
+msgstr "21. век"
+
+# Description:
+#. SR: "прва половина 21. века"
+#. EN: "first half of the 21st century"
+msgid "21vek_1"
+msgstr "прва половина 21. века"
+
+# Description:
+#. SR: "Администратор"
+#. EN: "Administrator"
+msgid "Administrator"
+msgstr "Администратор"
+
+# Description:
+#. SR: "Администратори"
+#. EN: "Administrators"
+msgid "Administratori"
+msgstr "Администратори"
+
+# Description:
+#. SR: "Администрирање корисника"
+#. EN: "User administration"
+msgid "Administriranje_korisnika"
+msgstr "Администрирање корисника"
+
+# Description:
+#. SR: "Адреса"
+#. EN: "Address"
+msgid "Adresa"
+msgstr "Адреса"
+
+# Description:
+#. SR: "Адреса зграде"
+#. EN: "Building address"
+msgid "Adresa_zgrade"
+msgstr "Адреса зграде"
+
+# Description:
+#. SR: "Акције прикупљања фотографија"
+#. EN: "Photo collection actions"
+msgid "Akcije_prikupljanja_fotografija"
+msgstr "Акције прикупљања фотографија"
+
+# Description:
+#. SR: "Анонимно"
+#. EN: "Anonymously"
+msgid "Anonimno"
+msgstr "Анонимно"
+
+# Description:
+#. SR: "Април"
+#. EN: "April"
+msgid "April"
+msgstr "Април"
+
+# Description:
+#. SR: "Аутор"
+#. EN: "Author"
+msgid "Autor"
+msgstr "Аутор"
+
+# Description:
+#. SR: "Аутор фотографије"
+#. EN: "Author of the photo"
+msgid "Autor_fotografije"
+msgstr "Аутор фотографије"
+
+# Description:
+#. SR: "Аутор описа"
+#. EN: "Description author"
+msgid "Autor_opisa"
+msgstr "Аутор описа"
+
+# Description:
+#. SR: "Аутори"
+#. EN: "Authors"
+msgid "Autori"
+msgstr "Аутори"
+
+# Description:
+#. SR: "Август"
+#. EN: "August"
+msgid "Avgust"
+msgstr "Август"
+
+# Description:
+#. SR: "Ажурирај"
+#. EN: "Update"
+msgid "Azuriraj"
+msgstr "Ажурирај"
+
+# Description:
+#. SR: "Ажурирај sitemap"
+#. EN: "Update sitemap"
+msgid "Azuriraj_sitemap"
+msgstr "Ажурирај sitemap"
+
+# Description:
+#. SR: "Биста"
+#. EN: "Bust"
+msgid "Bista"
+msgstr "Биста"
+
+# Description:
+#. SR: "Бисте"
+#. EN: "Busts"
+msgid "Biste"
+msgstr "Бисте"
+
+# Description:
+#. SR: "Блог"
+#. EN: "Blog"
+msgid "Blog"
+msgstr "Блог"
+
+# Description:
+#. SR: "Боја"
+#. EN: "Color"
+msgid "Boja"
+msgstr "Боја"
+
+# Description:
+#. SR: "Број"
+#. EN: "Number"
+msgid "Broj"
+msgstr "Број"
+
+# Description:
+#. SR: "Број назива"
+#. EN: "Number of names"
+msgid "Broj_naziva"
+msgstr "Број назива"
+
+# Description:
+#. SR: "Број поена"
+#. EN: "Number of points"
+msgid "Broj_poena"
+msgstr "Број поена"
+
+# Description:
+#. SR: "Дан"
+#. EN: "Day"
+msgid "Dan"
+msgstr "Дан"
+
+# Description:
+#. SR: "Датотека"
+#. EN: "File"
+msgid "Datoteka"
+msgstr "Датотека"
+
+# Description:
+#. SR: "Датотеке"
+#. EN: "Files"
+msgid "Datoteke"
+msgstr "Датотеке"
+
+# Description:
+#. SR: "Датум додавања"
+#. EN: "Date added"
+msgid "Datum_dodavanja"
+msgstr "Датум додавања"
+
+# Description:
+#. SR: "Датум обнове"
+#. EN: "Renewal date"
+msgid "Datum_obnove"
+msgstr "Датум обнове"
+
+# Description:
+#. SR: "Датум последње измене"
+#. EN: "Date of last modification"
+msgid "Datum_poslednje_izmene"
+msgstr "Датум последње измене"
+
+# Description:
+#. SR: "Датум последњег ажурирања"
+#. EN: "Date of last update"
+msgid "Datum_poslednjeg_azuriranja"
+msgstr "Датум последњег ажурирања"
+
+# Description:
+#. SR: "Датум регистрације"
+#. EN: "Date of registration"
+msgid "Datum_registracije"
+msgstr "Датум регистрације"
+
+# Description:
+#. SR: "Децембар"
+#. EN: "December"
+msgid "Decembar"
+msgstr "Децембар"
+
+# Description:
+#. SR: "Дигитални носилац"
+#. EN: "Digital carrier"
+msgid "Digitalni_nosilac"
+msgstr "Дигитални носилац"
+
+# Description:
+#. SR: "Димензије"
+#. EN: "Dimension"
+msgid "Dimenzije"
+msgstr "Димензије"
+
+# Description:
+#. SR: "Додај"
+#. EN: "Add"
+msgid "Dodaj"
+msgstr "Додај"
+
+# Description:
+#. SR: "Додај акцију"
+#. EN: "Add action"
+msgid "Dodaj_akciju"
+msgstr "Додај акцију"
+
+# Description:
+#. SR: "Додај аутора"
+#. EN: "Add author"
+msgid "Dodaj_autora"
+msgstr "Додај аутора"
+
+# Description:
+#. SR: "Додај догађај"
+#. EN: "Add event"
+msgid "Dodaj_dogadjaj"
+msgstr "Додај догађај"
+
+# Description:
+#. SR: "Додај документ"
+#. EN: "Add document"
+msgid "Dodaj_dokument"
+msgstr "Додај документ"
+
+# Description:
+#. SR: "Додај фотографију"
+#. EN: "Add photo"
+msgid "Dodaj_fotografiju"
+msgstr "Додај фотографију"
+
+# Description:
+#. SR: "Додај фотографију зграде"
+#. EN: "Add photo of building"
+msgid "Dodaj_fotografiju_zgrade"
+msgstr "Додај фотографију зграде"
+
+# Description:
+#. SR: "Додај Google приказ улице"
+#. EN: "Add Google Street View"
+msgid "Dodaj_google_street_view"
+msgstr "Додај Google приказ улице"
+
+# Description:
+#. SR: "Додај колекцију"
+#. EN: "Add collection"
+msgid "Dodaj_kolekciju"
+msgstr "Додај колекцију"
+
+# Description:
+#. SR: "Додај коментар"
+#. EN: "Add comment"
+msgid "Dodaj_komentar"
+msgstr "Додај коментар"
+
+# Description:
+#. SR: "Додај корисника"
+#. EN: "Add user"
+msgid "Dodaj_korisnika"
+msgstr "Додај корисника"
+
+# Description:
+#. SR: "Додај мапу"
+#. EN: "Add map"
+msgid "Dodaj_mapu"
+msgstr "Додај мапу"
+
+# Description:
+#. SR: "Додај назив улице"
+#. EN: "Add street name"
+msgid "Dodaj_naziv_ulice"
+msgstr "Додај назив улице"
+
+# Description:
+#. SR: "Додај ознаку"
+#. EN: "Add tag"
+msgid "Dodaj_oznaku"
+msgstr "Додај ознаку"
+
+# Description:
+#. SR: "Додај појам"
+#. EN: "Add person/object"
+msgid "Dodaj_pojam"
+msgstr "Додај појам"
+
+# Description:
+#. SR: "Додај поређење"
+#. EN: "Add comparison"
+msgid "Dodaj_poredjenje"
+msgstr "Додај поређење"
+
+# Description:
+#. SR: "Додај преусмерење"
+#. EN: "Add redirection"
+msgid "Dodaj_preusmerenje"
+msgstr "Додај преусмерење"
+
+# Description:
+#. SR: "Додај сећање"
+#. EN: "Add memory"
+msgid "Dodaj_secanje"
+msgstr "Додај сећање"
+
+# Description:
+#. SR: "Додај sitemap"
+#. EN: "Add sitemap"
+msgid "Dodaj_sitemap"
+msgstr "Додај sitemap"
+
+# Description:
+#. SR: "Додај споменик"
+#. EN: "Add monument"
+msgid "Dodaj_spomenik"
+msgstr "Додај споменик"
+
+# Description:
+#. SR: "Додај приказ улице"
+#. EN: "Add Street View"
+msgid "Dodaj_street_view"
+msgstr "Додај приказ улице"
+
+# Description:
+#. SR: "Додај учесника"
+#. EN: "Add participant"
+msgid "Dodaj_ucesnika"
+msgstr "Додај учесника"
+
+# Description:
+#. SR: "Додај улице"
+#. EN: "Add streets"
+msgid "Dodaj_ulice"
+msgstr "Додај улице"
+
+# Description:
+#. SR: "Додај улицу"
+#. EN: "Add street"
+msgid "Dodaj_ulicu"
+msgstr "Додај улицу"
+
+# Description:
+#. SR: "Додај Yandex приказ улице"
+#. EN: "Add Yandex Street View"
+msgid "Dodaj_yandex_street_view"
+msgstr "Додај Yandex приказ улице"
+
+# Description:
+#. SR: "Додај зграду"
+#. EN: "Add building"
+msgid "Dodaj_zgradu"
+msgstr "Додај зграду"
+
+# Description:
+#. SR: "Додатне информације"
+#. EN: "Additional info"
+msgid "Dodatne_informacije"
+msgstr "Додатне информације"
+
+# Description:
+#. SR: "Догађај"
+#. EN: "Event"
+msgid "Dogadjaj"
+msgstr "Догађај"
+
+# Description:
+#. SR: "Догађаји"
+#. EN: "Events"
+msgid "Dogadjaji"
+msgstr "Догађаји"
+
+# Description:
+#. SR: "Документ"
+#. EN: "Dokument"
+msgid "Dokument"
+msgstr "Документ"
+
+# Description:
+#. SR: "Документа"
+#. EN: "Dokuments"
+msgid "Dokumenta"
+msgstr "Документа"
+
+# Description:
+#. SR: "Дозвола"
+#. EN: "Licence"
+msgid "Dozvola"
+msgstr "Дозвола"
+
+# Description:
+#. SR: "Држава"
+#. EN: "Country"
+msgid "Drzava"
+msgstr "Држава"
+
+# Description:
+#. SR: "Дуже име"
+#. EN: "Longer name"
+msgid "Duze_ime"
+msgstr "Дуже име"
+
+# Description:
+#. SR: "Е-пошта"
+#. EN: "E-mail"
+msgid "Eposta"
+msgstr "Е-пошта"
+
+# Description:
+#. SR: "Фебруар"
+#. EN: "February"
+msgid "Februar"
+msgstr "Фебруар"
+
+# Description:
+#. SR: "Филтер"
+#. EN: "Filter"
+msgid "Filter"
+msgstr "Филтер"
+
+# Description:
+#. SR: "Формат"
+#. EN: "Format"
+msgid "Format"
+msgstr "Формат"
+
+# Description:
+#. SR: "Фото-албум"
+#. EN: "Photo album"
+msgid "Fotoalbum"
+msgstr "Фото-албум"
+
+# Description:
+#. SR: "Фотографија"
+#. EN: "Photo"
+msgid "Fotografija"
+msgstr "Фотографија"
+
+# Description:
+#. SR: "Фотографије"
+#. EN: "Photos"
+msgid "Fotografije"
+msgstr "Фотографије"
+
+# Description:
+#. SR: "У реду"
+#. EN: "OK"
+msgid "GDPR_acceptText"
+msgstr "У реду"
+
+# Description:
+#. SR: "Више информација"
+#. EN: "More info"
+msgid "GDPR_infoText"
+msgstr "Више информација"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "GDPR_message"
+msgstr ""
+"Овај сајт користи само један неопходан колачић. Коришћењем овог сајта, "
+"сагласни сте са Правилником о заштити података о личности."
+
+# Description:
+#. SR: "Приватност"
+#. EN: "Privacy"
+msgid "GDPR_privacyText"
+msgstr "Приватност"
+
+# Description:
+#. SR: "Географска дужина"
+#. EN: "Longitude"
+msgid "Geografska_duzina"
+msgstr "Географска дужина"
+
+# Description:
+#. SR: "Географска ширина"
+#. EN: "Latitude"
+msgid "Geografska_sirina"
+msgstr "Географска ширина"
+
+# Description:
+#. SR: "Геолоцирај"
+#. EN: "Geolocate"
+msgid "Geolociraj"
+msgstr "Геолоцирај"
+
+# Description:
+#. SR: "Геолоцирај мапу"
+#. EN: "Geolocate the map"
+msgid "Geolociraj_mapu"
+msgstr "Геолоцирај мапу"
+
+# Description:
+#. SR: "Година"
+#. EN: "Year"
+msgid "Godina"
+msgstr "Година"
+
+# Description:
+#. SR: "Година изградње"
+#. EN: "Construction year"
+msgid "Godina_izgradnje"
+msgstr "Година изградње"
+
+# Description:
+#. SR: "Година настанка нове фотографије"
+#. EN: "Year of creation of the new photo"
+msgid "Godina_nastanka_nove_fotografije"
+msgstr "Година настанка нове фотографије"
+
+# Description:
+#. SR: "Година настанка старе фотографије"
+#. EN: "Year of creation of the old photo"
+msgid "Godina_nastanka_stare_fotografije"
+msgstr "Година настанка старе фотографије"
+
+# Description:
+#. SR: "Година рушења"
+#. EN: "Demolition year"
+msgid "Godina_rusenja"
+msgstr "Година рушења"
+
+# Description:
+#. SR: "Google мапе"
+#. EN: "Google Maps"
+msgid "Google_mape"
+msgstr "Google мапе"
+
+# Description:
+#. SR: "Град"
+#. EN: "City"
+msgid "Grad"
+msgstr "Град"
+
+# Description:
+#. SR: "Хвала волонтери!"
+#. EN: "Volunteers, thank you!"
+msgid "Hvala_volonteri"
+msgstr "Хвала волонтери!"
+
+# Description:
+#. SR: "Име"
+#. EN: "Name"
+msgid "Ime"
+msgstr "Име"
+
+# Description:
+#. SR: "Име и презиме"
+#. EN: "Full name"
+msgid "Ime_i_prezime"
+msgstr "Име и презиме"
+
+# Description:
+#. SR: "Информациони систем непокретних културних добара"
+#. EN: "Information system of immovable cultural property"
+msgid "Informacioni_sistem_nkd"
+msgstr "Информациони систем непокретних културних добара"
+
+# Description:
+#. SR: "Институција"
+#. EN: "Institution"
+msgid "Institucija"
+msgstr "Институција"
+
+# Description:
+#. SR: "Испразни поље"
+#. EN: "Empty the field"
+msgid "Isprazni_polje"
+msgstr "Испразни поље"
+
+# Description:
+#. SR: "Изабери"
+#. EN: "Choose"
+msgid "Izaberi"
+msgstr "Изабери"
+
+# Description:
+#. SR: "Изабери фотографију"
+#. EN: "Choose photo"
+msgid "Izaberi_fotografiju"
+msgstr "Изабери фотографију"
+
+# Description:
+#. SR: "Изабери корисника"
+#. EN: "Choose user"
+msgid "Izaberi_korisnika"
+msgstr "Изабери корисника"
+
+# Description:
+#. SR: "Изабери ознаку"
+#. EN: "Choose tag"
+msgid "Izaberi_oznaku"
+msgstr "Изабери ознаку"
+
+# Description:
+#. SR: "Изабери споменик"
+#. EN: "Choose monument"
+msgid "Izaberi_spomenik"
+msgstr "Изабери споменик"
+
+# Description:
+#. SR: "Изабери учесника"
+#. EN: "Choose participant"
+msgid "Izaberi_ucesnika"
+msgstr "Изабери учесника"
+
+# Description:
+#. SR: "Изабери улицу"
+#. EN: "Choose the street"
+msgid "Izaberi_ulicu"
+msgstr "Изабери улицу"
+
+# Description:
+#. SR: "Изабери зграду"
+#. EN: "Choose the building"
+msgid "Izaberi_zgradu"
+msgstr "Изабери зграду"
+
+# Description:
+#. SR: "Издавач"
+#. EN: "Publisher"
+msgid "Izdavac"
+msgstr "Издавач"
+
+# Description:
+#. SR: "Измени"
+#. EN: "Change"
+msgid "Izmeni"
+msgstr "Измени"
+
+# Description:
+#. SR: "Измени акцију"
+#. EN: "Change action"
+msgid "Izmeni_akciju"
+msgstr "Измени акцију"
+
+# Description:
+#. SR: "Измени аутора"
+#. EN: "Change author"
+msgid "Izmeni_autora"
+msgstr "Измени аутора"
+
+# Description:
+#. SR: "Измени документ"
+#. EN: "Change document"
+msgid "Izmeni_dokument"
+msgstr "Измени документ"
+
+# Description:
+#. SR: "Измени фотографију"
+#. EN: "Change photo"
+msgid "Izmeni_fotografiju"
+msgstr "Измени фотографију"
+
+# Description:
+#. SR: "Измени колекцију"
+#. EN: "Change collection"
+msgid "Izmeni_kolekciju"
+msgstr "Измени колекцију"
+
+# Description:
+#. SR: "Измени корисника"
+#. EN: "Change user"
+msgid "Izmeni_korisnika"
+msgstr "Измени корисника"
+
+# Description:
+#. SR: "Измени мапу"
+#. EN: "Change map"
+msgid "Izmeni_mapu"
+msgstr "Измени мапу"
+
+# Description:
+#. SR: "Измени овлашћења корисника"
+#. EN: "Change user permission"
+msgid "Izmeni_ovlascenja_korisnika"
+msgstr "Измени овлашћења корисника"
+
+# Description:
+#. SR: "Измени ознаку"
+#. EN: "Change tag"
+msgid "Izmeni_oznaku"
+msgstr "Измени ознаку"
+
+# Description:
+#. SR: "Измени податке"
+#. EN: "Change data"
+msgid "Izmeni_podatke"
+msgstr "Измени податке"
+
+# Description:
+#. SR: "Измени појам"
+#. EN: "Change person/object"
+msgid "Izmeni_pojam"
+msgstr "Измени појам"
+
+# Description:
+#. SR: "Измени поређење"
+#. EN: "Change comparison"
+msgid "Izmeni_poredjenje"
+msgstr "Измени поређење"
+
+# Description:
+#. SR: "Измени преусмерење"
+#. EN: "Change redirection"
+msgid "Izmeni_preusmerenje"
+msgstr "Измени преусмерење"
+
+# Description:
+#. SR: "Измени сећање"
+#. EN: "Change memory"
+msgid "Izmeni_secanje"
+msgstr "Измени сећање"
+
+# Description:
+#. SR: "Измени споменик"
+#. EN: "Change monument"
+msgid "Izmeni_spomenik"
+msgstr "Измени споменик"
+
+# Description:
+#. SR: "Измени учесника"
+#. EN: "Change participant"
+msgid "Izmeni_ucesnika"
+msgstr "Измени учесника"
+
+# Description:
+#. SR: "Измени улицу"
+#. EN: "Change street"
+msgid "Izmeni_ulicu"
+msgstr "Измени улицу"
+
+# Description:
+#. SR: "Измени зграду"
+#. EN: "Change building"
+msgid "Izmeni_zgradu"
+msgstr "Измени зграду"
+
+# Description:
+#. SR: "Измењени подаци"
+#. EN: "Changed data"
+msgid "Izmenjeni_podaci"
+msgstr "Измењени подаци"
+
+# Description:
+#. SR: "Извор"
+#. EN: "Source"
+msgid "Izvor"
+msgstr "Извор"
+
+# Description:
+#. SR: "Јануар"
+#. EN: "January"
+msgid "Januar"
+msgstr "Јануар"
+
+# Description:
+#. SR: "Језик"
+#. EN: "Language"
+msgid "Jezik"
+msgstr "Језик"
+
+# Description:
+#. SR: "Јул"
+#. EN: "July"
+msgid "Jul"
+msgstr "Јул"
+
+# Description:
+#. SR: "Јун"
+#. EN: "June"
+msgid "Jun"
+msgstr "Јун"
+
+# Description:
+#. SR: "Карактеристике"
+#. EN: "Properties"
+msgid "Karakteristike"
+msgstr "Карактеристике"
+
+# Description:
+#. SR: "Катастарска општина"
+#. EN: "Cadastral municipality"
+msgid "Katastarska_opstina"
+msgstr "Катастарска општина"
+
+# Description:
+#. SR: "Катастарска парцела"
+#. EN: "Cadastral parcels"
+msgid "Katastarska_parcela"
+msgstr "Катастарска парцела"
+
+# Description:
+#. SR: "Категорија"
+#. EN: "Category"
+msgid "Kategorija"
+msgstr "Категорија"
+
+# Description:
+#. SR: "Категорије"
+#. EN: "Categories"
+msgid "Kategorije"
+msgstr "Категорије"
+
+# Description:
+#. SR: "Кип"
+#. EN: "Statue"
+msgid "Kip"
+msgstr "Кип"
+
+# Description:
+#. SR: "Књига/сајт/новине"
+#. EN: "Book/site/newspaper"
+msgid "Knjige_sajt_novine"
+msgstr "Књига/сајт/новине"
+
+# Description:
+#. SR: "Кодиран назив"
+#. EN: "Coded name"
+msgid "Kodiran_naziv"
+msgstr "Кодиран назив"
+
+# Description:
+#. SR: "Колекција"
+#. EN: "Collection"
+msgid "Kolekcija"
+msgstr "Колекција"
+
+# Description:
+#. SR: "Колекције"
+#. EN: "Collections"
+msgid "Kolekcije"
+msgstr "Колекције"
+
+# Description:
+#. SR: "Контакт"
+#. EN: "Contact"
+msgid "Kontakt"
+msgstr "Контакт"
+
+# Description:
+#. SR: "Координате"
+#. EN: "Coordinates"
+msgid "Koordinate"
+msgstr "Координате"
+
+# Description:
+#. SR: "Корисници"
+#. EN: "Users"
+msgid "Korisnici"
+msgstr "Корисници"
+
+# Description:
+#. SR: "Корисничко име"
+#. EN: "Username"
+msgid "Korisnicko_ime"
+msgstr "Корисничко име"
+
+# Description:
+#. SR: "Корисничко име је слободно."
+#. EN: "Username is free."
+msgid "Korisnicko_ime_slobodno"
+msgstr "Корисничко име је слободно."
+
+# Description:
+#. SR: "Корисничко име је заузето или је краће од 5 карактера."
+#. EN: "Username is taken or shorter than 5 characters."
+msgid "Korisnicko_ime_zauzeto"
+msgstr "Корисничко име је заузето или је краће од 5 карактера."
+
+# Description:
+#. SR: "Краће име"
+#. EN: "Shorter name"
+msgid "Krace_ime"
+msgstr "Краће име"
+
+# Description:
+#. SR: "Крст"
+#. EN: "Cross"
+msgid "Krst"
+msgstr "Крст"
+
+# Description:
+#. SR: "Крстови"
+#. EN: "Crosses"
+msgid "Krstovi"
+msgstr "Крстови"
+
+# Description:
+#. SR: "Дозвола"
+#. EN: "Licence"
+msgid "Licenca"
+msgstr "Дозвола"
+
+# Description:
+#. SR: "Личност / појам"
+#. EN: "Person / object"
+msgid "Licnost_pojam"
+msgstr "Личност / појам"
+
+# Description:
+#. SR: "Веза"
+#. EN: "Link"
+msgid "Link"
+msgstr "Веза"
+
+# Description:
+#. SR: "Логотип пројекта"
+#. EN: "Logo of the project"
+msgid "Logotip_projekta"
+msgstr "Логотип пројекта"
+
+# Description:
+#. SR: "Локација"
+#. EN: "Location"
+msgid "Lokacija"
+msgstr "Локација"
+
+# Description:
+#. SR: "Локална платформа"
+#. EN: "Local platform"
+msgid "Lokalna_platforma"
+msgstr "Локална платформа"
+
+# Description:
+#. SR: "Лозинка"
+#. EN: "Password"
+msgid "Lozinka"
+msgstr "Лозинка"
+
+# Description:
+#. SR: "Мај"
+#. EN: "May"
+msgid "Maj"
+msgstr "Мај"
+
+# Description:
+#. SR: "Погледајте мапу на изворном сајту:"
+#. EN: "See the map on the source site:"
+msgid "Mapa_izvorni_sajt"
+msgstr "Погледајте мапу на изворном сајту:"
+
+# Description:
+#. SR: "Мапа улице"
+#. EN: "Map of the street"
+msgid "Mapa_ulice"
+msgstr "Мапа улице"
+
+# Description:
+#. SR: "Мапе"
+#. EN: "Maps"
+msgid "Mape"
+msgstr "Мапе"
+
+# Description:
+#. SR: "Март"
+#. EN: "March"
+msgid "Mart"
+msgstr "Март"
+
+# Description:
+#. SR: "Матични број улице"
+#. EN: "Street ID"
+msgid "Maticni_broj_ulice"
+msgstr "Матични број улице"
+
+# Description:
+#. SR: "Медијум"
+#. EN: "Medium"
+msgid "Medijum"
+msgstr "Медијум"
+
+# Description:
+#. SR: "Месец"
+#. EN: "Month"
+msgid "Mesec"
+msgstr "Месец"
+
+# Description:
+#. SR: "Место издавања"
+#. EN: "Place of publishing"
+msgid "Mesto_izdavanja"
+msgstr "Место издавања"
+
+# Description:
+#. SR: "На данашњи дан"
+#. EN: "On this day"
+msgid "Na_danasnji_dan"
+msgstr "На данашњи дан"
+
+# Description:
+#. SR: "Најчешће промене назива"
+#. EN: ""
+msgid "Najcesce_promene_naziva"
+msgstr "Најчешће промене назива"
+
+# Description:
+#. SR: "Налог"
+#. EN: "Account"
+msgid "Nalog"
+msgstr "Налог"
+
+# Description:
+#. SR: "Направи налог"
+#. EN: "Create account"
+msgid "Napravi_nalog"
+msgstr "Направи налог"
+
+# Description:
+#. SR: "Насељено место"
+#. EN: "Settlement"
+msgid "Naselje"
+msgstr "Насељено место"
+
+# Description:
+#. SR: "Наслов"
+#. EN: "Title"
+msgid "Naslov"
+msgstr "Наслов"
+
+# Description:
+#. SR: "Наслов и опис"
+#. EN: "Title and description"
+msgid "Naslov_i_opis"
+msgstr "Наслов и опис"
+
+# Description:
+#. SR: "Наслов превео"
+#. EN: "Title translated by"
+msgid "Naslov_preveo"
+msgstr "Наслов превео"
+
+# Description:
+#. SR: "Насловна фотографија"
+#. EN: "Header photo"
+msgid "Naslovna_fotografija"
+msgstr "Насловна фотографија"
+
+# Description:
+#. SR: "Назив"
+#. EN: "Name"
+msgid "Naziv"
+msgstr "Назив"
+
+# Description:
+#. SR: "Назив града на мапи"
+#. EN: "Name of the city on map"
+msgid "Naziv_grada_na_mapi"
+msgstr "Назив града на мапи"
+
+# Description:
+#. SR: "Назив улице"
+#. EN: "Name of the street"
+msgid "Naziv_ulice"
+msgstr "Назив улице"
+
+# Description:
+#. SR: "Назив зграде"
+#. EN: "Name of the building"
+msgid "Naziv_zgrade"
+msgstr "Назив зграде"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Ne_postoji_prevod"
+msgstr ""
+"Још увек не постоји превод на овом језику. Уколико желите да помогнете у "
+"превођењу, контактирајте нас."
+
+# Description:
+#. SR: "Некад и сад"
+#. EN: "Then and now"
+msgid "Nekad_i_sad"
+msgstr "Некад и сад"
+
+# Description:
+#. SR: "Некад и сад"
+#. EN: "Then and now"
+msgid "Nekadisad"
+msgstr "Некад и сад"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Nemamo_fotografiju_zgrade"
+msgstr ""
+"Још увек немамо фотографију ове зграде. Уколико ви имате, <a href='https://"
+"улицепанчева.срб/контакт'>контактирајте нас</a>."
+
+# Description:
+#. SR: "Непокретно културно добро"
+#. EN: "Immovable cultural property"
+msgid "Nkd"
+msgstr "Непокретно културно добро"
+
+# Description:
+#. SR: "носилац права"
+#. EN: "Copyright holder"
+#, fuzzy
+#| msgid "nosilac_prava"
+msgid "Nosilac_prava"
+msgstr "носилац права"
+
+# Description:
+#. SR: "Нова фотографија"
+#. EN: "New photo"
+msgid "Nova_fotografija"
+msgstr "Нова фотографија"
+
+# Description:
+#. SR: "Нова вредност"
+#. EN: "New value"
+msgid "Nova_vrednost"
+msgstr "Нова вредност"
+
+# Description:
+#. SR: "Нове функције сајта"
+#. EN: "New site features"
+msgid "Nove_funkcije_sajta"
+msgstr "Нове функције сајта"
+
+# Description:
+#. SR: "Новембар"
+#. EN: "November"
+msgid "Novembar"
+msgstr "Новембар"
+
+# Description:
+#. SR: "Нови подаци"
+#. EN: "New data"
+msgid "Novi_podaci"
+msgstr "Нови подаци"
+
+# Description:
+#. SR: "Нови податак"
+#. EN: "New data"
+msgid "Novi_podatak"
+msgstr "Нови податак"
+
+# Description:
+#. SR: "Обриши фотографију"
+#. EN: "Delete photo"
+msgid "Obrisi_fotografiju"
+msgstr "Обриши фотографију"
+
+# Description:
+#. SR: "Обриши корисника"
+#. EN: "Delete user"
+msgid "Obrisi_korisnika"
+msgstr "Обриши корисника"
+
+# Description:
+#. SR: "Обриши учесника"
+#. EN: "Delete participant"
+msgid "Obrisi_ucesnika"
+msgstr "Обриши учесника"
+
+# Description:
+#. SR: "Одјави се"
+#. EN: "Sign out"
+msgid "Odjavi_se"
+msgstr "Одјави се"
+
+# Description:
+#. SR: "Одржавање"
+#. EN: "Maintenance"
+msgid "Odrzavanje"
+msgstr "Одржавање"
+
+# Description:
+#. SR: "Крај одржавања"
+#. EN: "Maintenance start"
+msgid "Odrzavanje_kraj"
+msgstr "Крај одржавања"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Odrzavanje_opis"
+msgstr ""
+"Заказано је одржавање панела и у том периоду сајт неће бити доступан. Хвала "
+"на разумевању!"
+
+# Description:
+#. SR: "Почетак одржавања"
+#. EN: "Maintenance end"
+msgid "Odrzavanje_pocetak"
+msgstr "Почетак одржавања"
+
+# Description:
+#. SR: "Одржавање сајта"
+#. EN: "Site maintenance"
+msgid "Odrzavanje_sajta"
+msgstr "Одржавање сајта"
+
+# Description:
+#. SR: "Октобар"
+#. EN: "October"
+msgid "Oktobar"
+msgstr "Октобар"
+
+# Description:
+#. SR: "Опис"
+#. EN: "Description"
+msgid "Opis"
+msgstr "Опис"
+
+# Description:
+#. SR: "Опис превео"
+#. EN: "Description translated by"
+msgid "Opis_preveo"
+msgstr "Опис превео"
+
+# Description:
+#. SR: "О пројекту"
+#. EN: "About project"
+msgid "Oprojektu"
+msgstr "О пројекту"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Oprojektu_opis"
+msgstr ""
+"<p>Пројекат „Улице Панчева“ званично је покренут 6. септембра 2018. године. "
+"Осмислио га је и реализовао <a href='https://никола.ђорђевић.срб' "
+"target='_blank'>Никола Ђорђевић</a>, тада студент Саобраћајног факултета "
+"Универзитета у Београду.</p><p>Првобитна идеја аутора је била да на једном "
+"месту обједини списак свих улица и тргова Панчева, а уз сваки актуелни назив "
+"би стајао списак старих назива. У том периоду је примећен недостатак "
+"платформи које чувају фотографије и разгледнице Панчева (а да то нису "
+"странице и групе на друштвеним мрежама), па су на сајту додате нове "
+"категорије за фотографије, разгледнице и мапе, чиме је отклоњен вишегодишњи "
+"изазов чувања важних историјских података.</p><p>Непосредно након покретања "
+"сајта, формирано је Удружење „Пансеј“ које је и званично постало носилац "
+"пројекта. Од тада је формирано још неколико категорије које су изузетно "
+"важне за истаживаче: зграде, споменици, историјске цртице о Панчеву, сећања, "
+"проширена стварност и акције прикупљања фотографија.</p><p>С обзиром на то "
+"да је платформа наишла на позитивне реакције стручне јавности (из области "
+"историје и информационих технологија), јавила се идеја да се овај концепт "
+"прикупљања фотографија прошири и на остала места у Србији, због чега је у "
+"јулу 2019. године званично покренут сајт Улице Србије. Од тада Улице Панчева "
+"постаје локални пројекат и саставни је део главног пројекта Улице Србије.</"
+"p><p>Овај пројекат је јединстве и по томе што користи ћирилички .срб домен "
+"као главни домен пројекта. Поред њега, постоји и помоћни домен "
+"улицепанцева.ин.рс који је намењен страним истраживачима који не знају "
+"српски језик.</p>"
+
+# Description:
+#. SR: "Општи циљ пројекта"
+#. EN: ""
+msgid "Opsti_cilj_projekta"
+msgstr "Општи циљ пројекта"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Opsti_cilj_projekta_opis"
+msgstr ""
+"Допринети очувању и представљању историје Панчева коришћењем информационих "
+"технологија"
+
+# Description:
+#. SR: "Општи подаци"
+#. EN: "General data"
+msgid "Opsti_podaci"
+msgstr "Општи подаци"
+
+# Description:
+#. SR: "Општина"
+#. EN: "Municipality"
+msgid "Opstina"
+msgstr "Општина"
+
+# Description:
+#. SR: "Организација"
+#. EN: "Organisation"
+msgid "Organizacija"
+msgstr "Организација"
+
+# Description:
+#. SR: "Основни подаци"
+#. EN: "Basic info"
+msgid "Osnovni_podaci"
+msgstr "Основни подаци"
+
+# Description:
+#. SR: "Остале фотографије"
+#. EN: "Other photos"
+msgid "Ostale_fotografije"
+msgstr "Остале фотографије"
+
+# Description:
+#. SR: "Остали подаци"
+#. EN: "Other info"
+msgid "Ostali_podaci"
+msgstr "Остали подаци"
+
+# Description:
+#. SR: "Остало"
+#. EN: "Other"
+msgid "Ostalo"
+msgstr "Остало"
+
+# Description:
+#. SR: "Овлашћења"
+#. EN: "Permissions"
+msgid "Ovlascenja"
+msgstr "Овлашћења"
+
+# Description:
+#. SR: "Овлашћење"
+#. EN: "Permission"
+msgid "Ovlascenje"
+msgstr "Овлашћење"
+
+# Description:
+#. SR: "Ознака"
+#. EN: "Tag"
+msgid "Oznaka"
+msgstr "Ознака"
+
+# Description:
+#. SR: "Ознаке"
+#. EN: "Tags"
+msgid "Oznake"
+msgstr "Ознаке"
+
+# Description:
+#. SR: "Панел"
+#. EN: "Panel"
+msgid "Panel"
+msgstr "Панел"
+
+# Description:
+#. SR: "Панорама 360°"
+#. EN: "Panorama 360°"
+msgid "Panorama_360"
+msgstr "Панорама 360°"
+
+# Description:
+#. SR: "Папир"
+#. EN: "Paper"
+msgid "Papir"
+msgstr "Папир"
+
+# Description:
+#. SR: "Период"
+#. EN: "Period"
+msgid "Period"
+msgstr "Период"
+
+# Description:
+#. SR: "Период изградње"
+#. EN: "Construction period"
+msgid "Period_izgradnje"
+msgstr "Период изградње"
+
+# Description:
+#. SR: "Период рушења"
+#. EN: "Demolition period"
+msgid "Period_rusenja"
+msgstr "Период рушења"
+
+# Description:
+#. SR: "Платформа"
+#. EN: "Platform"
+msgid "Platforma"
+msgstr "Платформа"
+
+# Description:
+#. SR: "Почетна"
+#. EN: "Home"
+msgid "Pocetna"
+msgstr "Почетна"
+
+# Description:
+#. SR: "Подаци су преузети са сајта Википедија помоћу Википодатака."
+#. EN: "The data was downloaded from Wikipedia using Wikidata."
+msgid "Podaci_Vikipedija"
+msgstr "Подаци су преузети са сајта Википедија помоћу Википодатака."
+
+# Description:
+#. SR: "Подаци са мапе"
+#. EN: "Data from the map"
+msgid "Podaci_sa_mape"
+msgstr "Подаци са мапе"
+
+# Description:
+#. SR: "Подешавања"
+#. EN: "Settings"
+msgid "Podesavanja"
+msgstr "Подешавања"
+
+# Description:
+#. SR: "Полеђина разгледнице"
+#. EN: "Postcard back"
+msgid "Poledjina_razglednice"
+msgstr "Полеђина разгледнице"
+
+# Description:
+#. SR: "Полигон"
+#. EN: "Polygon"
+msgid "Poligon"
+msgstr "Полигон"
+
+# Description:
+#. SR: "Поништи лозинку"
+#. EN: "Reset password"
+msgid "Ponisti_lozinku"
+msgstr "Поништи лозинку"
+
+# Description:
+#. SR: "Понови лозинку"
+#. EN: "Repeat password"
+msgid "Ponovi_lozinku"
+msgstr "Понови лозинку"
+
+# Description:
+#. SR: "Порука"
+#. EN: "Message"
+msgid "Poruka"
+msgstr "Порука"
+
+# Description:
+#. SR: "Порушене зграде"
+#. EN: "Demolished buildings"
+msgid "Porusene_zgrade"
+msgstr "Порушене зграде"
+
+# Description:
+#. SR: "Порушено"
+#. EN: "Demolished"
+msgid "Poruseno"
+msgstr "Порушено"
+
+# Description:
+#. SR: "Пошаљи е-пошту"
+#. EN: "Send email"
+msgid "Posalji_epostu"
+msgstr "Пошаљи е-пошту"
+
+# Description:
+#. SR: "Постојеће зграде"
+#. EN: "Existing buildings"
+msgid "Postojece_zgrade"
+msgstr "Постојеће зграде"
+
+# Description:
+#. SR: "Правне информације"
+#. EN: "Legal information"
+msgid "Pravne_informacije"
+msgstr "Правне информације"
+
+# Description:
+#. SR: "Преглед докумената"
+#. EN: "Documents review"
+msgid "Pregled_dokumenata"
+msgstr "Преглед докумената"
+
+# Description:
+#. SR: "Преглед појмова"
+#. EN: "Persons/objects review"
+msgid "Pregled_pojmova"
+msgstr "Преглед појмова"
+
+# Description:
+#. SR: "Преглед преусмерења"
+#. EN: "Redirections review"
+msgid "Pregled_preusmerenja"
+msgstr "Преглед преусмерења"
+
+# Description:
+#. SR: "Преслови"
+#. EN: "Transliterate"
+msgid "Preslovi"
+msgstr "Преслови"
+
+# Description:
+#. SR: "Претрага"
+#. EN: "Search"
+msgid "Pretraga"
+msgstr "Претрага"
+
+# Description:
+#. SR: "Преводилац"
+#. EN: "Translator"
+msgid "Prevodilac"
+msgstr "Преводилац"
+
+# Description:
+#. SR: "Презиме"
+#. EN: "Last name"
+msgid "Prezime"
+msgstr "Презиме"
+
+# Description:
+#. SR: "Пријави се"
+#. EN: "Sign in"
+msgid "Prijavi_se"
+msgstr "Пријави се"
+
+# Description:
+#. SR: "Да бисте могли да видите списак измена, потребно је да се пријавите."
+#. EN: "To view the list of changes, you need to log in."
+msgid "Prikaz_podataka_prijava"
+msgstr "Да бисте могли да видите списак измена, потребно је да се пријавите."
+
+# Description:
+#. SR: "На фотографији је приказана разгледница."
+#. EN: "The photo shows a postcard."
+msgid "Prikazana_razglednica"
+msgstr "На фотографији је приказана разгледница."
+
+# Description:
+#. SR: "Прикажи"
+#. EN: "Show"
+msgid "Prikazi"
+msgstr "Прикажи"
+
+# Description:
+#. SR: "Прималац"
+#. EN: "Recipient"
+msgid "Primalac"
+msgstr "Прималац"
+
+# Description:
+#. SR: "Прочитајте све"
+#. EN: "Read all"
+msgid "Procitajte_sve"
+msgstr "Прочитајте све"
+
+# Description:
+#. SR: "Прочитајте више"
+#. EN: "Read more"
+msgid "Procitajte_vise"
+msgstr "Прочитајте више"
+
+# Description:
+#. SR: "Профил"
+#. EN: "Profile"
+msgid "Profil"
+msgstr "Профил"
+
+# Description:
+#. SR: "Промоције"
+#. EN: "Promotions"
+msgid "Promocije"
+msgstr "Промоције"
+
+# Description:
+#. SR: "Проширена стварност"
+#. EN: "AI"
+msgid "Prosirenastvarnost"
+msgstr "Проширена стварност"
+
+# Description:
+#. SR: "Ранг листа"
+#. EN: "Rang list"
+msgid "Rang_lista"
+msgstr "Ранг листа"
+
+# Description:
+#. SR: "Разгледница"
+#. EN: "Postcard"
+msgid "Razglednica"
+msgstr "Разгледница"
+
+# Description:
+#. SR: "Развој других пројеката"
+#. EN: ""
+msgid "Razvoj_drugih_projekata"
+msgstr "Развој других пројеката"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Razvoj_drugih_projekata_opis"
+msgstr ""
+"<ul><li><a href='https://www.openstreetmap.org/' "
+"target='_blank'>OpenStreetMap</a></li><li><a href='https://"
+"www.openhistoricalmap.org/' target='_blank'>OpenHistoricalMap</a></li><li><a "
+"href='https://commons.wikimedia.org/' target='_blank'>Wikimedia Commons</a></"
+"li><li><a href='https://web.archive.org/' target='_blank'>Wayback Machine</"
+"a></li></ul>"
+
+# Description:
+#. SR: "У развоју ове странице су помогли волонтери:"
+#. EN: "The following volunteers helped in the development of this page:"
+msgid "Razvoj_stranice"
+msgstr "У развоју ове странице су помогли волонтери:"
+
+# Description:
+#. SR: "Ротирај"
+#. EN: "Rotate"
+msgid "Rotiraj"
+msgstr "Ротирај"
+
+# Description:
+#. SR: "Ротирај фотографију"
+#. EN: "Rotate photo"
+msgid "Rotiraj_fotografiju"
+msgstr "Ротирај фотографију"
+
+# Description:
+#. SR: "Сајт"
+#. EN: "Site"
+msgid "Sajt"
+msgstr "Сајт"
+
+# Description:
+#. SR: "Сећања"
+#. EN: "Memories"
+msgid "Secanja"
+msgstr "Сећања"
+
+# Description:
+#. SR: "Септембар"
+#. EN: "September"
+msgid "Septembar"
+msgstr "Септембар"
+
+# Description:
+#. SR: "Сигнатура"
+#. EN: "Signature"
+msgid "Signatura"
+msgstr "Сигнатура"
+
+# Description:
+#. SR: "Синоними"
+#. EN: "Synonyms"
+msgid "Sinonimi"
+msgstr "Синоними"
+
+# Description:
+#. SR: "Скулптуре"
+#. EN: "Sculptures"
+msgid "Skulpture"
+msgstr "Скулптуре"
+
+# Description:
+#. SR: "Специфични циљеви пројекта"
+#. EN: ""
+msgid "Specificni_ciljevi_projekta"
+msgstr "Специфични циљеви пројекта"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Specificni_ciljevi_projekta_1"
+msgstr ""
+"Формирати универзалну платформу која треба да обједини и представи податке о "
+"историји Панчева - фотографије, разгледнице, мапе, списак старих назива "
+"улица и тргова"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Specificni_ciljevi_projekta_2"
+msgstr ""
+"Обучавати грађанке и грађане (истраживаче, ученике, студенте и све "
+"заинтересоване) да користе податке са сајта"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Specificni_ciljevi_projekta_3"
+msgstr ""
+"Укључивати грађанке и грађане да активно учествују у развоју пројекта "
+"дељењем информација (прича, фотографија и докумената из личне архиве)"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Specificni_ciljevi_projekta_4"
+msgstr ""
+"Континуално истраживати и прикупљати податке у вези са историјом Панчева"
+
+# Description:
+#. SR: "Списак измена"
+#. EN: "List of changes"
+msgid "Spisak_izmena"
+msgstr "Списак измена"
+
+# Description:
+#. SR: "Списак улица по насељеним местима"
+#. EN: "List of streets by settlements"
+msgid "Spisak_ulica_po_naseljenim_mestima"
+msgstr "Списак улица по насељеним местима"
+
+# Description:
+#. SR: "Списак улица и тргова"
+#. EN: "List of streets and squares"
+msgid "Spisakulica"
+msgstr "Списак улица и тргова"
+
+# Description:
+#. SR: "Спомен-плоча"
+#. EN: "Plaque"
+msgid "Spomen_ploca"
+msgstr "Спомен-плоча"
+
+# Description:
+#. SR: "Спомен-плоче"
+#. EN: "Plaques"
+msgid "Spomen_ploce"
+msgstr "Спомен-плоче"
+
+# Description:
+#. SR: "Споменици"
+#. EN: "Monuments"
+msgid "Spomenici"
+msgstr "Споменици"
+
+# Description:
+#. SR: "Споменик"
+#. EN: "Monument"
+msgid "Spomenik"
+msgstr "Споменик"
+
+# Description:
+#. SR: "Стара фотографија"
+#. EN: "Old photo"
+msgid "Stara_fotografija"
+msgstr "Стара фотографија"
+
+# Description:
+#. SR: "Стара вредност"
+#. EN: "Old value"
+msgid "Stara_vrednost"
+msgstr "Стара вредност"
+
+# Description:
+#. SR: "Стари називи"
+#. EN: "Old names"
+msgid "Starinazivi"
+msgstr "Стари називи"
+
+# Description:
+#. SR: "Статистика"
+#. EN: "Statistic"
+msgid "Statistika"
+msgstr "Статистика"
+
+# Description:
+#. SR: "Погледајте целу статистику"
+#. EN: "See full statistics"
+msgid "Statistika_pogledajte_celu"
+msgstr "Погледајте целу статистику"
+
+# Description:
+#. SR: "Статус зграде"
+#. EN: "Building status"
+msgid "Status_zgrade"
+msgstr "Статус зграде"
+
+# Description:
+#. SR: "Страница не постоји"
+#. EN: "Page doesn't exist"
+msgid "Stranica_ne_postoji"
+msgstr "Страница не постоји"
+
+# Description:
+#. SR: " Приказ улице"
+#. EN: "Street View"
+msgid "Street_view"
+msgstr " Приказ улице"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "Sve_zgrade_link"
+msgstr ""
+"Све зграде у Панчеву и околним местима можете да погледате на страници <a "
+"href='https://улицепанчева.срб/зграде'>Зграде</a>."
+
+# Description:
+#. SR: "Сврха истраживања"
+#. EN: "The purpose of the research"
+msgid "Svrha_istrazivanja"
+msgstr "Сврха истраживања"
+
+# Description:
+#. SR: "Табела - порушене зграде"
+#. EN: "Table - demolished buildings"
+msgid "Tabela_porusene_zgrade"
+msgstr "Табела - порушене зграде"
+
+# Description:
+#. SR: "Табела - постојеће зграде"
+#. EN: "Table - existing buildings"
+msgid "Tabela_postojece_zgrade"
+msgstr "Табела - постојеће зграде"
+
+# Description:
+#. SR: "Техничке карактеристике"
+#. EN: "Technical background"
+msgid "Tehnicke_karakteristike"
+msgstr "Техничке карактеристике"
+
+# Description:
+#. SR: "Текст"
+#. EN: "Text"
+msgid "Tekst"
+msgstr "Текст"
+
+# Description:
+#. SR: "Тип"
+#. EN: "Type"
+msgid "Tip"
+msgstr "Тип"
+
+# Description:
+#. SR: "Тип поруке"
+#. EN: "Type of message"
+msgid "Tip_poruke"
+msgstr "Тип поруке"
+
+# Description:
+#. SR: "У изградњи"
+#. EN: "Under construction"
+msgid "U_izgradnji"
+msgstr "У изградњи"
+
+# Description:
+#. SR: "Учесници"
+#. EN: "Contributors"
+msgid "Ucesnici"
+msgstr "Учесници"
+
+# Description:
+#. SR: "Учесник"
+#. EN: "Contributor"
+msgid "Ucesnik"
+msgstr "Учесник"
+
+# Description:
+#. SR: "Уклоњено"
+#. EN: "Removec"
+msgid "Uklonjeno"
+msgstr "Уклоњено"
+
+# Description:
+#. SR: "Улица"
+#. EN: "Street"
+msgid "Ulica"
+msgstr "Улица"
+
+# Description:
+#. SR: "Улица / трг"
+#. EN: "Street / square"
+msgid "UlicaTrg"
+msgstr "Улица / трг"
+
+# Description:
+#. SR: "Улицу/трг можете пронаћи у online мапама"
+#. EN: "You can find this street/square in online maps"
+msgid "Ulica_online_mape"
+msgstr "Улицу/трг можете пронаћи у online мапама"
+
+# Description:
+#. SR: "Улице"
+#. EN: "Streets"
+msgid "Ulice"
+msgstr "Улице"
+
+# Description:
+#. SR: "Улога"
+#. EN: "Role"
+msgid "Uloga"
+msgstr "Улога"
+
+# Description:
+#. SR: "Варошке приче"
+#. EN: "Local stories"
+msgid "Varoskeprice"
+msgstr "Варошке приче"
+
+# Description:
+#. SR: "Верски објекат"
+#. EN: "Religious building"
+msgid "Verski_objekat"
+msgstr "Верски објекат"
+
+# Description:
+#. SR: "Вести"
+#. EN: "News"
+msgid "Vesti"
+msgstr "Вести"
+
+# Description:
+#. SR: "Више информација"
+#. EN: "More information"
+msgid "Vise_informacija"
+msgstr "Више информација"
+
+# Description:
+#. SR: "Више о пројекту"
+#. EN: "More about project"
+msgid "Vise_o_projektu"
+msgstr "Више о пројекту"
+
+# Description:
+#. SR: "Власник разгледнице"
+#. EN: "Postcard owner"
+msgid "Vlasnik_razglednice"
+msgstr "Власник разгледнице"
+
+# Description:
+#. SR: "Волонтер"
+#. EN: "Volunteer"
+msgid "Volonter"
+msgstr "Волонтер"
+
+# Description:
+#. SR: "Волонтери"
+#. EN: "Volunteers"
+msgid "Volonteri"
+msgstr "Волонтери"
+
+# Description:
+#. SR: "Волонтирање"
+#. EN: "Volunteering"
+msgid "Volontiranje"
+msgstr "Волонтирање"
+
+# Description:
+#. SR: "Врати се назад"
+#. EN: "Go back"
+msgid "Vrati_se_nazad"
+msgstr "Врати се назад"
+
+# Description:
+#. SR: "Време"
+#. EN: "Time"
+msgid "Vreme"
+msgstr "Време"
+
+# Description:
+#. SR: "Yandex мапе"
+#. EN: "Yandex maps"
+msgid "Yandex_mape"
+msgstr "Yandex мапе"
+
+# Description:
+#. SR: "Заборављена лозинка"
+#. EN: "Forgotten password"
+msgid "Zaboravljena_lozinka"
+msgstr "Заборављена лозинка"
+
+# Description:
+#. SR: "Захтев за волонтирање"
+#. EN: "Request for volunteering"
+msgid "Zahtev_za_volontiranje"
+msgstr "Захтев за волонтирање"
+
+# Description:
+#. SR: "Замени"
+#. EN: "Replace"
+msgid "Zameni"
+msgstr "Замени"
+
+# Description:
+#. SR: "Замени фотографију"
+#. EN: "Replace photo"
+msgid "Zameni_fotografiju"
+msgstr "Замени фотографију"
+
+# Description:
+#. SR: "Зграда"
+#. EN: "Building"
+msgid "Zgrada"
+msgstr "Зграда"
+
+# Description:
+#. SR: "Зграде"
+#. EN: "Buildings"
+msgid "Zgrade"
+msgstr "Зграде"
+
+# Description:
+#. SR: "Зграде на фотографији"
+#. EN: "Buildings on the photo"
+msgid "Zgrade_na_fotografiji"
+msgstr "Зграде на фотографији"
+
+# Description:
+#. SR: "Значајан објекат"
+#. EN: "Important building"
+msgid "Znacajan_objekat"
+msgstr "Значајан објекат"
+
+# Description:
+#. SR: "локални администратор"
+#. EN: "local administrator"
+msgid "admin"
+msgstr "локални администратор"
+
+# Description:
+#. SR: "адреса"
+#. EN: "address"
+msgid "adresa"
+msgstr "адреса"
+
+# Description:
+#. SR: "Зеленог рузмарина 23, Панчево"
+#. EN: "23 Zelenog ruzmarina St. Panchevo"
+msgid "adresa_udruzenja"
+msgstr "Зеленог рузмарина 23, Панчево"
+
+# Description:
+#. SR: "аутор"
+#. EN: "author"
+msgid "autor"
+msgstr "аутор"
+
+# Description:
+#. SR: "аутор описа"
+#. EN: "description author"
+msgid "autor_opisa"
+msgstr "аутор описа"
+
+# Description:
+#. SR: "аутори"
+#. EN: "authors"
+msgid "autori"
+msgstr "аутори"
+
+# Description:
+#. SR: "блог"
+#. EN: "blog"
+msgid "blog"
+msgstr "блог"
+
+# Description:
+#. SR: "број"
+#. EN: "number"
+msgid "broj"
+msgstr "број"
+
+# Description:
+#. SR: "данас"
+#. EN: "today"
+msgid "danas"
+msgstr "данас"
+
+# Description:
+#. SR: "датотека"
+#. EN: "file"
+msgid "datoteka"
+msgstr "датотека"
+
+# Description:
+#. SR: "датотеке"
+#. EN: "files"
+msgid "datoteke"
+msgstr "датотеке"
+
+# Description:
+#. SR: "Поделите ову страницу на друштвеним мрежама:"
+#. EN: "Share this page on social networks:"
+msgid "deljenje_linka"
+msgstr "Поделите ову страницу на друштвеним мрежама:"
+
+# Description:
+#. SR: "Дигиталне мапе"
+#. EN: "Digital maps"
+msgid "digitalne_mape"
+msgstr "Дигиталне мапе"
+
+# Description:
+#. SR: "догађај"
+#. EN: "event"
+msgid "dogadjaj"
+msgstr "догађај"
+
+# Description:
+#. SR: "догађаји"
+#. EN: "events"
+msgid "dogadjaji"
+msgstr "догађаји"
+
+# Description:
+#. SR: "енглески"
+#. EN: "English"
+msgid "engleski"
+msgstr "енглески"
+
+# Description:
+#. SR: "е-пошта"
+#. EN: "e-mail"
+msgid "eposta"
+msgstr "е-пошта"
+
+# Description:
+#. SR: "Унесите број фотографије:"
+#. EN: "Insert photo ID:"
+msgid "filter_unos_broja"
+msgstr "Унесите број фотографије:"
+
+# Description:
+#. SR: "Филтрирај албум"
+#. EN: "Filter photo album"
+msgid "filtriraj_album"
+msgstr "Филтрирај албум"
+
+# Description:
+#. SR: "фотографија"
+#. EN: "photo"
+msgid "fotografija"
+msgstr "фотографија"
+
+# Description:
+#. SR: "sr-Cyrl-rs"
+#. EN: "en"
+msgid "hreflang"
+msgstr "sr-Cyrl-rs"
+
+# Description:
+#. SR: "Јединствени број фотографије"
+#. EN: "Photo ID"
+msgid "id_fotografije"
+msgstr "Јединствени број фотографије"
+
+# Description:
+#. SR: "Јединствени број главне фотографије"
+#. EN: "ID of main photo"
+msgid "id_glavne_fotografije"
+msgstr "Јединствени број главне фотографије"
+
+# Description:
+#. SR: "Јединствени број корисника"
+#. EN: "User ID"
+msgid "id_korisnika"
+msgstr "Јединствени број корисника"
+
+# Description:
+#. SR: "Јединствени број насељеног места"
+#. EN: ""
+msgid "id_naselja"
+msgstr "Јединствени број насељеног места"
+
+# Description:
+#. SR: "Јединствени број нове фотографије"
+#. EN: "ID of new photo"
+msgid "id_nove_fotografije"
+msgstr "Јединствени број нове фотографије"
+
+# Description:
+#. SR: "Јединствена ознака појма"
+#. EN: "ID of person/object"
+msgid "id_pojma"
+msgstr "Јединствена ознака појма"
+
+# Description:
+#. SR: "Јединствени број споменика"
+#. EN: "Monument ID"
+msgid "id_spomenika"
+msgstr "Јединствени број споменика"
+
+# Description:
+#. SR: "Јединствени број старе фотографије"
+#. EN: "ID of old photo"
+msgid "id_stare_fotografije"
+msgstr "Јединствени број старе фотографије"
+
+# Description:
+#. SR: "Јединствени број учесника"
+#. EN: "Contributor ID"
+msgid "id_ucesnika"
+msgstr "Јединствени број учесника"
+
+# Description:
+#. SR: "Јединствени број улице"
+#. EN: "Street ID"
+msgid "id_ulice"
+msgstr "Јединствени број улице"
+
+# Description:
+#. SR: "Јединствени број зграде"
+#. EN: "Building ID"
+msgid "id_zgrade"
+msgstr "Јединствени број зграде"
+
+# Description:
+#. SR: "Интерактивне мапе"
+#. EN: "Interactive maps"
+msgid "interaktivne_mape"
+msgstr "Интерактивне мапе"
+
+# Description:
+#. SR: "Историјске мапе"
+#. EN: "Historical maps"
+msgid "istorijske_mape"
+msgstr "Историјске мапе"
+
+# Description:
+#. SR: "истраживач"
+#. EN: "researcher"
+msgid "istrazivac"
+msgstr "истраживач"
+
+# Description:
+#. SR: "изградња"
+#. EN: "contrustion"
+msgid "izgradnja"
+msgstr "изградња"
+
+# Description:
+#. SR: "извор"
+#. EN: "source"
+msgid "izvor"
+msgstr "извор"
+
+# Description:
+#. SR: "Јавно власништво"
+#. EN: "Public domain"
+msgid "javno_vlasnistvo"
+msgstr "Јавно власништво"
+
+# Description:
+#. SR: "Карактеристике документа"
+#. EN: "Document properties"
+msgid "karakteristike_dokumenta"
+msgstr "Карактеристике документа"
+
+# Description:
+#. SR: "Карактеристике мапе"
+#. EN: "Map properties"
+msgid "karakteristike_mape"
+msgstr "Карактеристике мапе"
+
+# Description:
+#. SR: "категорија"
+#. EN: "category"
+msgid "kategorija"
+msgstr "категорија"
+
+# Description:
+#. SR: "категорије"
+#. EN: "categories"
+msgid "kategorije"
+msgstr "категорије"
+
+# Description:
+#. SR: "колекција"
+#. EN: "collection"
+msgid "kolekcija"
+msgstr "колекција"
+
+# Description:
+#. SR: "колекције"
+#. EN: "collections"
+msgid "kolekcije"
+msgstr "колекције"
+
+# Description:
+#. SR: "контакт"
+#. EN: "contact"
+msgid "kontakt"
+msgstr "контакт"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "kontakt_pancevo_opis"
+msgstr ""
+"<a href='https://www.pancevo.rs'>Панчево</a> је град који се налази у "
+"Републици Србији (Банат, Војводина), на ушћу Тамиша у Дунав. Панчево има "
+"76.203 становника, од Београда је удаљен свега 15km и налази се на самом "
+"југу Средње Европе."
+
+# Description:
+#. SR: "веза"
+#. EN: "link"
+msgid "link"
+msgstr "веза"
+
+# Description:
+#. SR: "Мапе на другим сајтовима"
+#. EN: "Maps on other sites"
+msgid "mape_na_drugim_sajtovima"
+msgstr "Мапе на другим сајтовима"
+
+# Description:
+#. SR: "Мапе на нашем сајту"
+#. EN: "Maps on our site"
+msgid "mape_na_nasem_sajtu"
+msgstr "Мапе на нашем сајту"
+
+# Description:
+#. SR: "насељено место"
+#. EN: "settlement"
+msgid "naselje"
+msgstr "насељено место"
+
+# Description:
+#. SR: "Натпис на згради"
+#. EN: "An inscription on the building"
+msgid "natpis"
+msgstr "Натпис на згради"
+
+# Description:
+#. SR: "Не постоји податак на српском језику."
+#. EN: "There is no data on English."
+msgid "ne_postoji_podatak"
+msgstr "Не постоји податак на српском језику."
+
+# Description:
+#. SR: "недоступно"
+#. EN: "unavailable"
+msgid "nedostupno"
+msgstr "недоступно"
+
+# Description:
+#. SR: "некад"
+#. EN: "then"
+msgid "nekad"
+msgstr "некад"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "nekadisad_uvod"
+msgstr ""
+"'Некад и сад' је део сајта који ће вас вратити у један део панчевачке "
+"прошлости. Направили смо поређење старих и нових фотографија Панчева — "
+"потребно је да кликнете на једну од старих фотографија у наставку и моћи "
+"ћете да погледате како је одређено место у граду изгледало некад, али и како "
+"оно данас изгледа. Уз неке фотографије стоји и прича коју су са нама "
+"поделили наши пратиоци на друштвеним мрежама."
+
+# Description:
+#. SR: "непознато"
+#. EN: "unknown"
+msgid "nepoznato"
+msgstr "непознато"
+
+# Description:
+#. SR: "непокретно културно добро"
+#. EN: "immovable cultural property"
+msgid "nkd"
+msgstr "непокретно културно добро"
+
+# Description:
+#. SR: "непокретно културно добро од изузетног значаја"
+#. EN: "immovable cultural property of exceptional importance"
+msgid "nkd_izuzetno"
+msgstr "непокретно културно добро од изузетног значаја"
+
+# Description:
+#. SR: "непокретно културно добро од великог значаја"
+#. EN: "immovable cultural property of great importance"
+msgid "nkd_veliko"
+msgstr "непокретно културно добро од великог значаја"
+
+# Description:
+#. SR: "носилац права"
+#. EN: "copyright holder"
+msgid "nosilac_prava"
+msgstr "носилац права"
+
+# Description:
+#. SR: "обавештење"
+#. EN: "notification"
+msgid "obavestenje"
+msgstr "обавештење"
+
+# Description:
+#. SR: "Желим да добијам обавештења о пријављивању на платформу"
+#. EN: "I want to receive notifications about logging into the platform"
+msgid "obavestenje_saglasnost_log"
+msgstr "Желим да добијам обавештења о пријављивању на платформу"
+
+# Description:
+#. SR: "Желим да добијам обавештења о новим опцијама на платформи"
+#. EN: "I want to receive notifications about new options on the platform"
+msgid "obavestenje_saglasnost_novo"
+msgstr "Желим да добијам обавештења о новим опцијама на платформи"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "obavestenje_saglasnost_promocija"
+msgstr ""
+"Желим да добијам обавештења о промотивним активностима у вези са пројектом"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "obavestenje_saglasnost_volontiranje"
+msgstr ""
+"Желим да добијам обавештења о волонтерским активностима на развоју пројекта"
+
+# Description:
+#. SR: "Ограничена дозвола"
+#. EN: "Limited permission"
+msgid "ogranicena_dozvola"
+msgstr "Ограничена дозвола"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "ohm_opis"
+msgstr ""
+"Податке са платформе Улице Панчева могуће је пронаћи на сајту пројекта <a "
+"href='https://openhistoricalmap.org/"
+"#map=14/44.8665/20.6587&layers=O&date=2021&daterange=1800,2021' "
+"target='_blank'>OpenHistoricalMap</a>."
+
+# Description:
+#. SR: "о пројекту"
+#. EN: "about project"
+msgid "oprojektu"
+msgstr "о пројекту"
+
+# Description:
+#. SR: "отвори страницу"
+#. EN: "open the page"
+msgid "otvori_stranicu"
+msgstr "отвори страницу"
+
+# Description:
+#. SR: "отвори упитник"
+#. EN: "open the form"
+msgid "otvori_upitnik"
+msgstr "отвори упитник"
+
+# Description:
+#. SR: "Отворите фотографију"
+#. EN: "Open photo"
+msgid "otvorite_fotografiju"
+msgstr "Отворите фотографију"
+
+# Description:
+#. SR: "овлашћења"
+#. EN: "permissions"
+msgid "ovlascenja"
+msgstr "овлашћења"
+
+# Description:
+#. SR: "овлашћење"
+#. EN: "permission"
+msgid "ovlascenje"
+msgstr "овлашћење"
+
+# Description:
+#. SR: "ознака"
+#. EN: "tag"
+msgid "oznaka"
+msgstr "ознака"
+
+# Description:
+#. SR: "ознаке"
+#. EN: "tags"
+msgid "oznake"
+msgstr "ознаке"
+
+# Description:
+#. SR: "Упитник за додавање нове фотографије."
+#. EN: "Form for adding new photo."
+msgid "panel_fotografije_dodaj"
+msgstr "Упитник за додавање нове фотографије."
+
+# Description:
+#. SR: "Упитник за мењање постојеће фотографије."
+#. EN: "Form for modifying an existing photo."
+msgid "panel_fotografije_izmeni"
+msgstr "Упитник за мењање постојеће фотографије."
+
+# Description:
+#. SR: "Упитник за додавање нове ознаке за фотографије."
+#. EN: "Form for adding new tag for photos."
+msgid "panel_fotografije_oznaka_dodaj"
+msgstr "Упитник за додавање нове ознаке за фотографије."
+
+# Description:
+#. SR: "Упитник за мењање постојеће ознаке за фотографије."
+#. EN: "Form for modifying an existing tag for photos."
+msgid "panel_fotografije_oznaka_izmeni"
+msgstr "Упитник за мењање постојеће ознаке за фотографије."
+
+# Description:
+#. SR: "Упитник за ротирање постојеће фотографије."
+#. EN: "Form for rotating an existing photo."
+msgid "panel_fotografije_rotiraj"
+msgstr "Упитник за ротирање постојеће фотографије."
+
+# Description:
+#. SR: "Упитник за замену постојеће фотографије."
+#. EN: "Form for replacing an existing photo."
+msgid "panel_fotografije_zameni"
+msgstr "Упитник за замену постојеће фотографије."
+
+# Description:
+#. SR: "Упитник за додавање нове колекције."
+#. EN: "Form for adding new collection."
+msgid "panel_kolekcije_dodaj"
+msgstr "Упитник за додавање нове колекције."
+
+# Description:
+#. SR: "Упитник за мењање постојеће колекције."
+#. EN: "Form for modifying and existing collection."
+msgid "panel_kolekcije_izmeni"
+msgstr "Упитник за мењање постојеће колекције."
+
+# Description:
+#. SR: "Упитник за додавање нове мапе."
+#. EN: "Form for adding new map."
+msgid "panel_mape_dodaj"
+msgstr "Упитник за додавање нове мапе."
+
+# Description:
+#. SR: "Упитник за геолоцирање постојеће мапе."
+#. EN: "Form for geolocating an existing map."
+msgid "panel_mape_geolociraj"
+msgstr "Упитник за геолоцирање постојеће мапе."
+
+# Description:
+#. SR: "Упитник за мењање постојеће мапе."
+#. EN: "Form for modifying and existing map."
+msgid "panel_mape_izmeni"
+msgstr "Упитник за мењање постојеће мапе."
+
+# Description:
+#. SR: "Упитник за додавање новог поређења."
+#. EN: "Form for adding new comparison."
+msgid "panel_nekad_i_sad_dodaj"
+msgstr "Упитник за додавање новог поређења."
+
+# Description:
+#. SR: "Упитник за измену постојећег поређења."
+#. EN: "Form for modifying an existing comparison."
+msgid "panel_nekad_i_sad_izmeni"
+msgstr "Упитник за измену постојећег поређења."
+
+# Description:
+#. SR: "Упитник за додавање документа."
+#. EN: "Form for adding document."
+msgid "panel_ostalo_dodaj_dokument:"
+msgstr "Упитник за додавање документа."
+
+# Description:
+#. SR: "Упитник за додавање појма за назив улица и тргова."
+#. EN: ""
+msgid "panel_ostalo_dodaj_pojam"
+msgstr "Упитник за додавање појма за назив улица и тргова."
+
+# Description:
+#. SR: "Упитник за додавање преусмерења са једне странице на другу."
+#. EN: "Form for adding redirection from one URL to another."
+msgid "panel_ostalo_dodaj_preusmerenje"
+msgstr "Упитник за додавање преусмерења са једне странице на другу."
+
+# Description:
+#. SR: "Упитник за измену документа."
+#. EN: "Form for modifying document."
+msgid "panel_ostalo_izmeni_dokument:"
+msgstr "Упитник за измену документа."
+
+# Description:
+#. SR: "Упитник за измену појма за назив улица и тргова."
+#. EN: ""
+msgid "panel_ostalo_izmeni_pojam"
+msgstr "Упитник за измену појма за назив улица и тргова."
+
+# Description:
+#. SR: "Упитник за измену преусмерења са једне странице на другу."
+#. EN: "Form for modifying redirection from one URL to another."
+msgid "panel_ostalo_izmeni_preusmerenje"
+msgstr "Упитник за измену преусмерења са једне странице на другу."
+
+# Description:
+#. SR: "Страница за преглед фотографија за одређени датум."
+#. EN: "Пage for viewing photos for a specific date."
+msgid "panel_ostalo_na_danasnji_dan"
+msgstr "Страница за преглед фотографија за одређени датум."
+
+# Description:
+#. SR: "Страница за преглед свих постојећих докумената."
+#. EN: "Page for viewing all documents."
+msgid "panel_ostalo_pregled_dokumenata:"
+msgstr "Страница за преглед свих постојећих докумената."
+
+# Description:
+#. SR: "Страница за преглед свих појмова за назив улица и тргова."
+#. EN: ""
+msgid "panel_ostalo_pregled_pojmova"
+msgstr "Страница за преглед свих појмова за назив улица и тргова."
+
+# Description:
+#. SR: "Страница за преглед свих преусмерења."
+#. EN: "Page for viewing all redirections."
+msgid "panel_ostalo_pregled_preusmerenja"
+msgstr "Страница за преглед свих преусмерења."
+
+# Description:
+#. SR: "Упитник за додавање новог споменика."
+#. EN: "Form for adding new monument."
+msgid "panel_spomenici_dodaj"
+msgstr "Упитник за додавање новог споменика."
+
+# Description:
+#. SR: "Упитник за мењање постојећег споменика."
+#. EN: "Form for modifying an existing monument."
+msgid "panel_spomenici_izmeni"
+msgstr "Упитник за мењање постојећег споменика."
+
+# Description:
+#. SR: "Упитник за измену постојеће улице."
+#. EN: "Form for modifying an existing street."
+msgid "panel_ulice_izmeni"
+msgstr "Упитник за измену постојеће улице."
+
+# Description:
+#. SR: "Упитник за формирање мапе улице."
+#. EN: "Form for creating a street map."
+msgid "panel_ulice_mapa"
+msgstr "Упитник за формирање мапе улице."
+
+# Description:
+#. SR: "Упитник за додавање Street View снимка за улицу."
+#. EN: "Form for adding a Street View image for a street."
+msgid "panel_ulice_street_view"
+msgstr "Упитник за додавање Street View снимка за улицу."
+
+# Description:
+#. SR: "Упитник за додавање нове зграде."
+#. EN: "Form for adding new building."
+msgid "panel_zgrade_dodaj"
+msgstr "Упитник за додавање нове зграде."
+
+# Description:
+#. SR: "Упитник за додавање фотографије на којој је истакнута нека зграда."
+#. EN: "Form for adding a photo highlighting a specific building."
+msgid "panel_zgrade_fotografija_dodaj"
+msgstr "Упитник за додавање фотографије на којој је истакнута нека зграда."
+
+# Description:
+#. SR: "Упитник за мењање постојеће зграде."
+#. EN: "Form for modifying an existing building."
+msgid "panel_zgrade_izmeni"
+msgstr "Упитник за мењање постојеће зграде."
+
+# Description:
+#. SR: "Формулар за додавање Street View снимка за зграду"
+#. EN: "Form for adding a Street View image for a building."
+msgid "panel_zgrade_street_view"
+msgstr "Формулар за додавање Street View снимка за зграду"
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "pocetna_uvod"
+msgstr ""
+"Добро дошли на сајт Улице Панчева, јединствену локалну платформу на којој је "
+"могуће претражити културно наслеђе Панчева. Циљ овог сајта је да омогући "
+"свим истраживачима лако проналажење важних информација из историје Панчева "
+"(фотографије, разгледнице, списак старих назива улица и тргова, мапе и још "
+"много тога)."
+
+# Description:
+#. SR: ""
+#. EN: ""
+msgid "podaci_katastar"
+msgstr ""
+"Подаци о катастарској парцели и катастарској општини преузети су из "
+"Шифарника кућних бројева 7. децембра 2020. године са <a href='https://"
+"data.gov.rs/sr/datasets/adresni-registar-shifarnik/' target='_blank'>Портала "
+"отворених података</a> (податке је отворио Републички геодетски завод "
+"Србије)."
+
+# Description:
+#. SR: "Поделите ову страницу на друштвеним мрежама:"
+#. EN: "Share this page on social networks:"
+msgid "podeli_drustvene_mreze"
+msgstr "Поделите ову страницу на друштвеним мрежама:"
+
+# Description:
+#. SR: "Правилник о фотографијама"
+#. EN: "Photos Policy"
+msgid "pravilnik_o_fotografijama"
+msgstr "Правилник о фотографијама"
+
+# Description:
+#. SR: "Правилник о заштити података о личности"
+#. EN: "Privacy Policy"
+msgid "pravilnik_privatnost"
+msgstr "Правилник о заштити података о личности"
+
+# Description:
+#. SR: "Претпоставка"
+#. EN: "Supposition"
+msgid "pretpostavka"
+msgstr "Претпоставка"
+
+# Description:
+#. SR: "Претрага по броју"
+#. EN: "Search by photo ID"
+msgid "pretraga_po_broju"
+msgstr "Претрага по броју"
+
+# Description:
+#. SR: "профил"
+#. EN: "profile"
+msgid "profil"
+msgstr "профил"
+
+# Description:
+#. SR: "рушење"
+#. EN: "demolished"
+msgid "rusenje"
+msgstr "рушење"
+
+# Description:
+#. SR: "сад"
+#. EN: "now"
+msgid "sad"
+msgstr "сад"
+
+# Description:
+#. SR: "сајт"
+#. EN: "site"
+msgid "sajt"
+msgstr "сајт"
+
+# Description:
+#. SR: "Сателитски снимак"
+#. EN: "Satelite image"
+msgid "satelit"
+msgstr "Сателитски снимак"
+
+# Description:
+#. SR: "српски"
+#. EN: "Serbian"
+msgid "srpski"
+msgstr "српски"
+
+# Description:
+#. SR: "српски (латиница)"
+#. EN: "Serbian (Latin)"
+msgid "srpskohrvatski"
+msgstr "српски (латиница)"
+
+# Description:
+#. SR: "Број фотографија у дигиталном фото-албуму."
+#. EN: "Number of photos in digital photo album."
+msgid "stat_broj_fotografija"
+msgstr "Број фотографија у дигиталном фото-албуму."
+
+# Description:
+#. SR: "Број мапа у нашој бази података."
+#. EN: "Number of maps in our database."
+msgid "stat_broj_mapa"
+msgstr "Број мапа у нашој бази података."
+
+# Description:
+#. SR: "Број насељених места чији се називи улица и тргова налазе на сајту."
+#. EN: "Број насељених места чији се називи улица и тргова налазе на сајту."
+msgid "stat_broj_naselja"
+msgstr "Број насељених места чији се називи улица и тргова налазе на сајту."
+
+# Description:
+#. SR: "Број споменика у нашој бази података."
+#. EN: "Number of monuments in our database."
+msgid "stat_broj_spomenika"
+msgstr "Број споменика у нашој бази података."
+
+# Description:
+#. SR: "Број зграда у нашој бази података."
+#. EN: "Number of buildings in our database"
+msgid "stat_broj_zgrada"
+msgstr "Број зграда у нашој бази података."
+
+# Description:
+#. SR: "главни администратор"
+#. EN: "head administrator"
+msgid "superadmin"
+msgstr "главни администратор"
+
+# Description:
+#. SR: "Тип документа"
+#. EN: "Type of document"
+msgid "tip_dokumenta"
+msgstr "Тип документа"
+
+# Description:
+#. SR: "Добијена је сагласност да се објаве везе ка друштвеним мрежама"
+#. EN: "Добијена је сагласност да се објаве везе ка друштвеним мрежама"
+msgid "ucesnik_saglasnost_drustvene_mreze"
+msgstr "Добијена је сагласност да се објаве везе ка друштвеним мрежама"
+
+# Description:
+#. SR: "Добијена је сагласност да се јавно објави е-пошта"
+#. EN: "Добијена је сагласност да се јавно објави е-пошта"
+msgid "ucesnik_saglasnost_eposta"
+msgstr "Добијена је сагласност да се јавно објави е-пошта"
+
+# Description:
+#. SR: "Добијена је сагланост да се профил објави јавно"
+#. EN: "Добијена је сагланост да се профил објави јавно"
+msgid "ucesnik_saglasnost_opsta"
+msgstr "Добијена је сагланост да се профил објави јавно"
+
+# Description:
+#. SR: "улица"
+#. EN: "street"
+msgid "ulica"
+msgstr "улица"
+
+# Description:
+#. SR: "улице"
+#. EN: "streets"
+msgid "ulice"
+msgstr "улице"
+
+# Description:
+#. SR: "уредник"
+#. EN: "editor"
+msgid "urednik"
+msgstr "уредник"
+
+# Description:
+#. SR: "Услови коришћења"
+#. EN: "Therms of Use"
+msgid "uslovi_koriscenja"
+msgstr "Услови коришћења"
+
+# Description:
+#. SR: "Усмени извор"
+#. EN: "Oral source"
+msgid "usmeno"
+msgstr "Усмени извор"
+
+# Description:
+#. SR: "На вашу адресу е-поште је послата веза за верификацију налога."
+#. EN: "An account verification link has been sent to your email address."
+msgid "verifikacija_naloga_obavestenje"
+msgstr "На вашу адресу е-поште је послата веза за верификацију налога."
+
+# Description:
+#. SR: "вести"
+#. EN: "news"
+msgid "vesti"
+msgstr "вести"
+
+# Description:
+#. SR: "волонтер"
+#. EN: "volunteer"
+msgid "volonter"
+msgstr "волонтер"
+
+# Description:
+#. SR: "волонтери"
+#. EN: "volunteers"
+msgid "volonteri"
+msgstr "волонтери"
+
+# Description:
+#. SR: "Сва права задржана"
+#. EN: "All rights reserved"
+msgid "zadrzana"
+msgstr "Сва права задржана"
+
+# Description:
+#. SR: "зграда"
+#. EN: "building"
+msgid "zgrada"
+msgstr "зграда"
+
+# Description:
+#. SR: "зграде"
+#. EN: "buildings"
+msgid "zgrade"
+msgstr "зграде"
